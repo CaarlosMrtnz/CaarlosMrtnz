@@ -1,6 +1,6 @@
 # Hi there! I'm Carlos 👋
 
-**Software Development Student | 2nd Year Higher Diploma in App Development + Master's in Cybersecurity**
+**Software Development Student | Master's in Cybersecurity**
 
 <br>
 
