@@ -80,4 +80,6 @@
 
 <br>
 
-**Made with passion by https://github.com/CaarlosMrtnz**
+<p align="center">
+  <i>Made with passion by <a href="https://github.com/CaarlosMrtnz"> Carlos Martínez</a></i>
+</p>
