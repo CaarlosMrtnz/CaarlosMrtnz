@@ -81,5 +81,5 @@
 <br>
 
 <p align="center">
-  <i>Made with passion by <a href="https://github.com/CaarlosMrtnz"> Carlos Martínez</a></i>
+  <i>Made with passion by <a href="https://www.linkedin.com/in/carlos-mart%C3%ADnez-agust%C3%ADn/"> Carlos Martínez</a></i>
 </p>
