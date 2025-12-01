@@ -73,9 +73,7 @@
 
 ## My GitHub stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=CaarlosMrtnz&show_icons=true&theme=tokyonight)
-
-![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CaarlosMrtnz&layout=compact&theme=tokyonight)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=CaarlosMrtnz&theme=tokyonight)](https://git.io/streak-stats)
 
 <br>
 
