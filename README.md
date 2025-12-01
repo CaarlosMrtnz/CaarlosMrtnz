@@ -73,7 +73,13 @@
 
 ## My GitHub stats
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=CaarlosMrtnz&theme=tokyonight)](https://git.io/streak-stats)
+<p align="center">
+
+  <img width="400" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=CaarlosMrtnz&show_icons=true&theme=tokyonight&count_private=true" />
+
+  <img width="400" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=CaarlosMrtnz&layout=compact&theme=tokyonight" />
+
+</p>
 
 <br>
 
