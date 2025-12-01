@@ -74,7 +74,7 @@
 ## My GitHub stats
 
 <p align="center">
-  <img width="400" src="https://github-readme-stats.vercel.app/api?username=CaarlosMrtnz&show_icons=true&theme=tokyonight&count_private=true" alt="Estadísticas de GitHub" />
+  <img width="400" src="https://github-readme-stats.vercel.app/api?username=CaarlosMrtnz&show_icons=true&theme=tokyonight" alt="Estadísticas de GitHub" />
   <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaarlosMrtnz&layout=compact&theme=tokyonight" alt="Lenguajes más usados" />
 </p>
 
