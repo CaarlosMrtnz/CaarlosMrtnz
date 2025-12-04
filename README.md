@@ -71,18 +71,6 @@
 
 <br>
 
-## My GitHub stats
-
-<p align="center">
-
-  <img width="400" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=CaarlosMrtnz&show_icons=true&theme=tokyonight&count_private=true" />
-
-  <img width="400" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=CaarlosMrtnz&layout=compact&theme=tokyonight" />
-
-</p>
-
-<br>
-
 <p align="center">
   <i>Made with passion by <a href="https://www.linkedin.com/in/carlos-mart%C3%ADnez-agust%C3%ADn/"> Carlos Martínez</a></i>
 </p>
